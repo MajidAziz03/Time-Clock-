@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.container{
+    height: 57vh;
+    width: 53vw;
+    background-color: silver;
+    margin-left: 98px;
+    margin-top: 56px;
+}
+.box{
+    
+
+    margin-top: 12px;
+    padding-top: 12px;
+    padding-left: 12px;
+}
